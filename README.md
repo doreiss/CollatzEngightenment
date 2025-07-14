@@ -33,8 +33,7 @@ And it answers:
 
 ## Files
 
-- `collatz_enlightenment_club_v1.0.pdf` – The canonical object.
-- `A_two-dimensional_black_and_white_vector_graphic_f.png` – Emblem/logo (optional).
+- `collatzv1.0.pdf` – The canonical object.
 - `README.md` – This guide.
 
 ---
